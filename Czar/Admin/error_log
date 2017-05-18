@@ -1,0 +1,57 @@
+[17-Jun-2016 14:53:24 Asia/Kolkata] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 27
+[17-Jun-2016 14:53:24 Asia/Kolkata] PHP Warning:  mysqli::select_db(): Couldn't fetch mysqli in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 28
+[17-Jun-2016 14:53:24 Asia/Kolkata] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 112
+[17-Jun-2016 14:53:27 Asia/Kolkata] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 27
+[17-Jun-2016 14:53:27 Asia/Kolkata] PHP Warning:  mysqli::select_db(): Couldn't fetch mysqli in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 28
+[17-Jun-2016 14:53:27 Asia/Kolkata] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 112
+[17-Jun-2016 14:54:02 Asia/Kolkata] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 27
+[17-Jun-2016 14:54:02 Asia/Kolkata] PHP Warning:  mysqli::select_db(): Couldn't fetch mysqli in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 28
+[17-Jun-2016 14:54:02 Asia/Kolkata] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 112
+[17-Jun-2016 14:54:06 Asia/Kolkata] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 27
+[17-Jun-2016 14:54:06 Asia/Kolkata] PHP Warning:  mysqli::select_db(): Couldn't fetch mysqli in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 28
+[17-Jun-2016 14:54:06 Asia/Kolkata] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 112
+[18-Jun-2016 00:32:32 Asia/Kolkata] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 27
+[18-Jun-2016 00:32:32 Asia/Kolkata] PHP Warning:  mysqli::select_db(): Couldn't fetch mysqli in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 28
+[18-Jun-2016 00:32:32 Asia/Kolkata] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 112
+[21-Jun-2016 19:44:02 Asia/Kolkata] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 27
+[21-Jun-2016 19:44:02 Asia/Kolkata] PHP Warning:  mysqli::select_db(): Couldn't fetch mysqli in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 28
+[21-Jun-2016 19:44:02 Asia/Kolkata] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 112
+[21-Jun-2016 19:44:03 Asia/Kolkata] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 27
+[21-Jun-2016 19:44:03 Asia/Kolkata] PHP Warning:  mysqli::select_db(): Couldn't fetch mysqli in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 28
+[21-Jun-2016 19:44:03 Asia/Kolkata] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 112
+[21-Jun-2016 19:44:06 Asia/Kolkata] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 27
+[21-Jun-2016 19:44:06 Asia/Kolkata] PHP Warning:  mysqli::select_db(): Couldn't fetch mysqli in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 28
+[21-Jun-2016 19:44:06 Asia/Kolkata] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 112
+[21-Jun-2016 19:44:07 Asia/Kolkata] PHP Warning:  mysqli::mysqli(): (HY000/1045): Access denied for user 'root'@'localhost' (using password: YES) in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 27
+[21-Jun-2016 19:44:07 Asia/Kolkata] PHP Warning:  mysqli::select_db(): Couldn't fetch mysqli in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 28
+[21-Jun-2016 19:44:07 Asia/Kolkata] PHP Warning:  mysqli::close(): Couldn't fetch mysqli in /home/yourtpdc/public_html/Czar/libs/dboperations.php on line 112
+[21-Jun-2016 19:44:10 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/yourtpdc/public_html/Czar/Admin/empregister.php:2) in /home/yourtpdc/public_html/Czar/config/adminvalidate.php on line 15
+[21-Jun-2016 19:44:10 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/yourtpdc/public_html/Czar/Admin/empregister.php on line 145
+[21-Jun-2016 19:44:10 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/yourtpdc/public_html/Czar/Admin/empregister.php on line 146
+[21-Jun-2016 19:44:10 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/yourtpdc/public_html/Czar/Admin/empregister.php on line 171
+[21-Jun-2016 19:44:10 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/yourtpdc/public_html/Czar/Admin/empregister.php on line 172
+[21-Jun-2016 19:44:11 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/yourtpdc/public_html/Czar/Admin/empregister.php:2) in /home/yourtpdc/public_html/Czar/config/adminvalidate.php on line 15
+[21-Jun-2016 19:44:11 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/yourtpdc/public_html/Czar/Admin/empregister.php on line 145
+[21-Jun-2016 19:44:11 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/yourtpdc/public_html/Czar/Admin/empregister.php on line 146
+[21-Jun-2016 19:44:11 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/yourtpdc/public_html/Czar/Admin/empregister.php on line 171
+[21-Jun-2016 19:44:11 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/yourtpdc/public_html/Czar/Admin/empregister.php on line 172
+[21-Jun-2016 19:44:13 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/yourtpdc/public_html/Czar/Admin/Manage-Teams.php on line 159
+[21-Jun-2016 19:44:13 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/yourtpdc/public_html/Czar/Admin/Manage-Teams.php on line 160
+[21-Jun-2016 19:44:14 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/yourtpdc/public_html/Czar/Admin/Manage-Teams.php on line 159
+[21-Jun-2016 19:44:14 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/yourtpdc/public_html/Czar/Admin/Manage-Teams.php on line 160
+[22-Jun-2016 00:09:10 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/yourtpdc/public_html/Czar/Admin/Manage-Teams.php on line 159
+[22-Jun-2016 00:09:10 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/yourtpdc/public_html/Czar/Admin/Manage-Teams.php on line 160
+[22-Jun-2016 00:09:11 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/yourtpdc/public_html/Czar/Admin/Manage-Teams.php on line 159
+[22-Jun-2016 00:09:11 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/yourtpdc/public_html/Czar/Admin/Manage-Teams.php on line 160
+[26-Jun-2016 13:19:15 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/yourtpdc/public_html/Czar/Admin/empregister.php:2) in /home/yourtpdc/public_html/Czar/config/adminvalidate.php on line 15
+[26-Jun-2016 13:19:15 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/yourtpdc/public_html/Czar/Admin/empregister.php on line 145
+[26-Jun-2016 13:19:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/yourtpdc/public_html/Czar/Admin/empregister.php on line 146
+[26-Jun-2016 13:19:15 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/yourtpdc/public_html/Czar/Admin/empregister.php on line 171
+[26-Jun-2016 13:19:15 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/yourtpdc/public_html/Czar/Admin/empregister.php on line 172
+[26-Jun-2016 13:29:46 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/yourtpdc/public_html/Czar/Admin/Manage-Teams.php on line 159
+[26-Jun-2016 13:29:46 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/yourtpdc/public_html/Czar/Admin/Manage-Teams.php on line 160
+[26-Jun-2016 13:57:42 Asia/Kolkata] PHP Warning:  session_start(): Cannot send session cache limiter - headers already sent (output started at /home/yourtpdc/public_html/Czar/Admin/empregister.php:2) in /home/yourtpdc/public_html/Czar/config/adminvalidate.php on line 15
+[26-Jun-2016 13:57:42 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/yourtpdc/public_html/Czar/Admin/empregister.php on line 145
+[26-Jun-2016 13:57:42 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/yourtpdc/public_html/Czar/Admin/empregister.php on line 146
+[26-Jun-2016 13:57:42 Asia/Kolkata] PHP Warning:  mysqli_query() expects parameter 1 to be mysqli, null given in /home/yourtpdc/public_html/Czar/Admin/empregister.php on line 171
+[26-Jun-2016 13:57:42 Asia/Kolkata] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in /home/yourtpdc/public_html/Czar/Admin/empregister.php on line 172
